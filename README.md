@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-![Header](https://link-to-your-header-image)
+![Header](my-image.jpg)
 
 ## About Me
 
