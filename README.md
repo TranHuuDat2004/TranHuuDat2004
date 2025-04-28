@@ -97,7 +97,11 @@ Here's a little bit about me:
 
 ---
 
-<p align="center">Thanks for visiting!
-  <img src="coding.gif" alt="Thanks for visiting!" width="400"/> 
+<p align="center">
+  <strong>Thanks for visiting!</strong> 
+  <!-- Hoặc bạn có thể dùng: **Thanks for visiting!** -->
+</p>
+<p align="center">
+  <img src="coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
   <!-- Make sure 'coding.gif' exists or replace src -->
 </p>
