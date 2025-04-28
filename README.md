@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 <h1 align="center">Hi 👋, I'm Tran Huu Dat</h1>
 <h3 align="center">I'm a software engineering student from VietNam</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471w9k4nibuuvmqm079y7h4anzt5fxu3mubmo6natw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" src="type.gif">
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/vtm4qejJIl1ERPIrbA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/knife-crab-pikaole-vtm4qejJIl1ERPIrbA">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="TranHuuDat2004" /> </p>
 
@@ -49,3 +49,32 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TranHuuDat2004&theme=radical&langs_count=8&card_width=805)](https://git.io/streak-stats)
+
+
+### 🏆 Các dự án nổi bật của mình:
+
+*(Liên kết đến các repo bạn tâm đắc nhất)*
+
+1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
+    *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
+    *   *Backend:* Node.js, Express.js
+    *   *Database:* MySQL
+
+2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
+    *   *Frontend:* HTML5, CSS3, JavaScript
+    *   *Backend:* PHP
+    *   *Database:* MySQL
+
+3.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
+    *   *Platform:* Android
+    *   *Language:* Java
+    *   *Database:* Firebase Firestore
+
+*   ➡️ Xem thêm các dự án khác của mình tại [tab Repositories](https://github.com/TranHuuDat2004?tab=repositories).
+
+---
+
+<!-- Có thể thêm một GIF/hình ảnh kết thúc vui vẻ -->
+<p align="center">
+  <img src="coding.gif" alt="Cảm ơn đã ghé thăm!" width="400"/>
+</p>
