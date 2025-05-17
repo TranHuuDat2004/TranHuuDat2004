@@ -76,14 +76,14 @@ Here's a little bit about me:
   </a>
 </p>
 
-### 🏆 My Featured Projects:
+### 🏆 Featured Full-Stack & Academic Projects:
 
 1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
     *   *Backend:* Node.js, Express.js
     *   *Database:* MySQL
 
-2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
+2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
     *   *Frontend:* HTML5, CSS3, JavaScript
     *   *Backend:* PHP
     *   *Database:* MySQL
@@ -92,6 +92,29 @@ Here's a little bit about me:
     *   *Platform:* Android
     *   *Language:* Java
     *   *Database:* Firebase Firestore
+
+---
+
+### 🚀 Personal Projects & Live Demos (GitHub Pages):
+
+1.  **Puzzle & Image Tools Suite:**
+    *   **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
+    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/]
+    *   💡 **Key Features:**
+        *   Jigsaw puzzle with diverse image collections and intuitive drag & drop.
+        *   Image tools: Crop to square, split into grid, resize with aspect ratio control.
+    *   *Tech Stack:* HTML5, CSS3, JavaScript, Bootstrap.
+
+2.  **MyMusic Player Interface:**
+    *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
+    *   🔗 **Live Demo:** [https://tranhuudatlego.github.io/]
+    *   💡 **Key Features:**
+        *   Intuitive music playback controls (play/pause, progress, volume).
+        *   Responsive design for desktop and mobile.
+        *   Dynamic UI elements built with vanilla JavaScript.
+    *   *Tech Stack:* HTML5, CSS3, JavaScript (ES6+).
+
+---
 
 *   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
 
