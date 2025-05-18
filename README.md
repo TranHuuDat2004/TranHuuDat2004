@@ -99,7 +99,7 @@ Here's a little bit about me:
 
 1.  **Puzzle & Image Tools Suite:**
     *   **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
-    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/]
+    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/games_tools/]
     *   💡 **Key Features:**
         *   Jigsaw puzzle with diverse image collections and intuitive drag & drop.
         *   Image tools: Crop to square, split into grid, resize with aspect ratio control.
@@ -107,7 +107,7 @@ Here's a little bit about me:
 
 2.  **MyMusic Player Interface:**
     *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
-    *   🔗 **Live Demo:** [https://tranhuudatlego.github.io/]
+    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/mymusic/]
     *   💡 **Key Features:**
         *   Intuitive music playback controls (play/pause, progress, volume).
         *   Responsive design for desktop and mobile.
