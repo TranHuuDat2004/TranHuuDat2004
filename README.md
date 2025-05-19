@@ -51,12 +51,12 @@ Here's a little bit about me:
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- Add other tools/languages like Node.js, Express, PHP, Bootstrap, Tailwind if you want icons for them -->
-  <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a> -->
-  <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a> -->
-  <!-- <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> -->
-  <!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
-  <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> -->
+  <!-- Uncomented relevant icons -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
@@ -76,7 +76,9 @@ Here's a little bit about me:
   </a>
 </p>
 
-### 🏆 Featured Full-Stack & Academic Projects:
+### 🏆 Academic Projects:
+
+#### 🌐 Web Development:
 
 1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
@@ -88,10 +90,23 @@ Here's a little bit about me:
     *   *Backend:* PHP
     *   *Database:* MySQL
 
-3.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
+3.  **[Omacha Shop](https://github.com/TranHuuDat2004/OmachaShop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
+    *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap
+    *   *Backend:* PHP
+    *   *Database:* MySQL
+
+#### 📱 Mobile Development (Android - Java):
+
+1.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
     *   *Platform:* Android
     *   *Language:* Java
     *   *Database:* Firebase Firestore
+
+#### 🧠 Machine Learning:
+
+1.  **[Handwriting Signature Recognition](https://github.com/TranHuuDat2004/handwriting-signature-recognition):** Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
+    *   *Language:* Python
+    *   *Libraries/Frameworks:* (e.g., TensorFlow/Keras, scikit-learn, OpenCV) - *Please add specific ML libraries if you remember them.*
 
 ---
 
