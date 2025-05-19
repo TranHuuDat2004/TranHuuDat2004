@@ -90,7 +90,7 @@ Here's a little bit about me:
     *   *Backend:* PHP
     *   *Database:* MySQL
 
-3.  **[Omacha Shop](https://github.com/TranHuuDat2004/OmachaShop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
+3.  **[Omacha Shop](https://github.com/TranHuuDat2004/Omacha_Shop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap
     *   *Backend:* PHP
     *   *Database:* MySQL
