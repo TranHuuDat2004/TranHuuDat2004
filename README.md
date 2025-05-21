@@ -80,48 +80,67 @@ Here's a little bit about me:
 
 #### 🌐 Web Development:
 
+<p align="center">
+  <img alt="BrickShop Logo" width="200" src="img/logo_brickshop.png">
+</p>
+
 1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
     *   *Backend:* Node.js, Express.js
     *   *Database:* MySQL
 
-<img align="center" alt="Coding Animation" width="200" src="img/logo_brickshop.png"> 
+<br/>
 
+<p align="center">
+  <img alt="ZStyle Logo" width="200" src="img/logo_zstyle.png">
+</p>
 
 2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
     *   *Frontend:* HTML5, CSS3, JavaScript
     *   *Backend:* PHP
     *   *Database:* MySQL
 
-<img align="center" alt="Coding Animation" width="200" src="img/logo_zstyle.png"> 
+<br/>
+
+<p align="center">
+  <img alt="Omacha Shop Logo" width="200" src="img/logo_omacha.png">
+</p>
 
 3.  **[Omacha Shop](https://github.com/TranHuuDat2004/Omacha_Shop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap
     *   *Backend:* PHP
     *   *Database:* MySQL
 
-<img align="center" alt="Coding Animation" width="200" src="img/logo_omacha.png"> 
-
 #### 📱 Mobile Development (Android - Java):
+
+<p align="center">
+  <img alt="AquaTrack Logo" width="200" src="img/logo_aquatrack.png">
+</p>
 
 1.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
     *   *Platform:* Android
     *   *Language:* Java
     *   *Database:* Firebase Firestore
 
-<img align="center" alt="Coding Animation" width="200" src="img/logo_aquatrack.png"> 
-
 #### 🧠 Machine Learning:
+
+<p align="center">
+  <img alt="Handwriting Signature Recognition" width="200" src="img/logo_handwriting.png"> 
+</p>
 
 1.  **[Handwriting Signature Recognition](https://github.com/TranHuuDat2004/handwriting-signature-recognition):** Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
     *   *Language:* Python
     *   *Libraries/Frameworks:* (e.g., TensorFlow/Keras, scikit-learn, OpenCV) - *Please add specific ML libraries if you remember them.*
 
-<img align="center" alt="Coding Animation" width="200" src="img/logo_handwriting.png"> 
+
 
 ---
 
 ### 🚀 Personal Projects & Live Demos (GitHub Pages):
+
+<p align="center">
+  <img alt="Puzzle Logo" width="200" src="img/logo_puzzle.png">
+</p>
 
 1.  **Puzzle & Image Tools Suite:**
     *   **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
@@ -131,7 +150,11 @@ Here's a little bit about me:
         *   Image tools: Crop to square, split into grid, resize with aspect ratio control.
     *   *Tech Stack:* HTML5, CSS3, JavaScript, Bootstrap.
 
-    <img align="center" alt="Coding Animation" width="200" src="img/logo_puzzle.png"> 
+
+
+<p align="center">
+  <img alt="Mymusic Logo" width="200" src="img/logo_mymusic.png">
+</p>
 
 2.  **MyMusic Player Interface:**
     *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
@@ -142,7 +165,7 @@ Here's a little bit about me:
         *   Dynamic UI elements built with vanilla JavaScript.
     *   *Tech Stack:* HTML5, CSS3, JavaScript (ES6+).
 
-    <img align="center" alt="Coding Animation" width="200" src="img/logo_mymusic.png"> 
+
 
 ---
 
