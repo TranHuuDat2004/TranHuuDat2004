@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tran Huu Dat</h1>
 <h3 align="center">I'm a Software Engineering student at Ton Duc Thang University (TDTU) from Vietnam.</h3>
 
-<img align="right" alt="Coding Animation" width="400" src="type.gif"> 
+<img align="right" alt="Coding Animation" width="400" src="img/type.gif"> 
 <!-- Make sure 'type.gif' exists in your repository or replace the src with a valid URL -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TranHuuDat2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
@@ -85,15 +85,22 @@ Here's a little bit about me:
     *   *Backend:* Node.js, Express.js
     *   *Database:* MySQL
 
+<img align="center" alt="Coding Animation" width="200" src="img/logo_brickshop.png"> 
+
+
 2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
     *   *Frontend:* HTML5, CSS3, JavaScript
     *   *Backend:* PHP
     *   *Database:* MySQL
 
+<img align="center" alt="Coding Animation" width="200" src="img/logo_zstyle.png"> 
+
 3.  **[Omacha Shop](https://github.com/TranHuuDat2004/Omacha_Shop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
     *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap
     *   *Backend:* PHP
     *   *Database:* MySQL
+
+<img align="center" alt="Coding Animation" width="200" src="img/logo_omacha.png"> 
 
 #### 📱 Mobile Development (Android - Java):
 
@@ -102,11 +109,15 @@ Here's a little bit about me:
     *   *Language:* Java
     *   *Database:* Firebase Firestore
 
+<img align="center" alt="Coding Animation" width="200" src="img/logo_aquatrack.png"> 
+
 #### 🧠 Machine Learning:
 
 1.  **[Handwriting Signature Recognition](https://github.com/TranHuuDat2004/handwriting-signature-recognition):** Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
     *   *Language:* Python
     *   *Libraries/Frameworks:* (e.g., TensorFlow/Keras, scikit-learn, OpenCV) - *Please add specific ML libraries if you remember them.*
+
+<img align="center" alt="Coding Animation" width="200" src="img/logo_handwriting.png"> 
 
 ---
 
@@ -120,6 +131,8 @@ Here's a little bit about me:
         *   Image tools: Crop to square, split into grid, resize with aspect ratio control.
     *   *Tech Stack:* HTML5, CSS3, JavaScript, Bootstrap.
 
+    <img align="center" alt="Coding Animation" width="200" src="img/logo_puzzle.png"> 
+
 2.  **MyMusic Player Interface:**
     *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
     *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/mymusic/]
@@ -128,6 +141,8 @@ Here's a little bit about me:
         *   Responsive design for desktop and mobile.
         *   Dynamic UI elements built with vanilla JavaScript.
     *   *Tech Stack:* HTML5, CSS3, JavaScript (ES6+).
+
+    <img align="center" alt="Coding Animation" width="200" src="img/logo_mymusic.png"> 
 
 ---
 
@@ -140,6 +155,6 @@ Here's a little bit about me:
   <!-- Hoặc bạn có thể dùng: **Thanks for visiting!** -->
 </p>
 <p align="center">
-  <img src="coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
+  <img src="img/coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
   <!-- Make sure 'coding.gif' exists or replace src -->
 </p>
