@@ -81,7 +81,7 @@ Here's a little bit about me:
 #### 🌐 Web Development:
 
 <p align="center">
-  <img alt="BrickShop Logo" height="100" src="img/logo_brickshop.png">
+  <img alt="BrickShop Logo" height="50" src="img/logo_brickshop.png">
 </p>
 
 1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
@@ -92,7 +92,7 @@ Here's a little bit about me:
 <br/>
 
 <p align="center">
-  <img alt="ZStyle Logo" height="100" src="img/logo_zstyle.png">
+  <img alt="ZStyle Logo" height="50" src="img/logo_zstyle.png">
 </p>
 
 2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
@@ -103,7 +103,7 @@ Here's a little bit about me:
 <br/>
 
 <p align="center">
-  <img alt="Omacha Shop Logo" height="100" src="img/logo_omacha.png">
+  <img alt="Omacha Shop Logo" height="50" src="img/logo_omacha.png">
 </p>
 
 3.  **[Omacha Shop](https://github.com/TranHuuDat2004/Omacha_Shop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
@@ -114,7 +114,7 @@ Here's a little bit about me:
 #### 📱 Mobile Development (Android - Java):
 
 <p align="center">
-  <img alt="AquaTrack Logo" height="100" src="img/logo_aquatrack.png">
+  <img alt="AquaTrack Logo" height="50" src="img/logo_aquatrack.png">
 </p>
 
 1.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
@@ -125,7 +125,7 @@ Here's a little bit about me:
 #### 🧠 Machine Learning:
 
 <p align="center">
-  <img alt="Handwriting Signature Recognition" height="100" src="img/logo_handwriting.png"> 
+  <img alt="Handwriting Signature Recognition" height="50" src="img/logo_handwriting.png"> 
 </p>
 
 1.  **[Handwriting Signature Recognition](https://github.com/TranHuuDat2004/handwriting-signature-recognition):** Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
@@ -139,7 +139,7 @@ Here's a little bit about me:
 ### 🚀 Personal Projects & Live Demos (GitHub Pages):
 
 <p align="center">
-  <img alt="Puzzle Logo" height="100" src="img/logo_puzzle.png">
+  <img alt="Puzzle Logo" height="50" src="img/logo_puzzle.png">
 </p>
 
 1.  **Puzzle & Image Tools Suite:**
@@ -153,7 +153,7 @@ Here's a little bit about me:
 
 
 <p align="center">
-  <img alt="Mymusic Logo" height="100" src="img/logo_mymusic.png">
+  <img alt="Mymusic Logo" height="50" src="img/logo_mymusic.png">
 </p>
 
 2.  **MyMusic Player Interface:**
