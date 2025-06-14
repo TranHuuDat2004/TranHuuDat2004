@@ -139,10 +139,22 @@ Here's a little bit about me:
 ### 🚀 Personal Projects & Live Demos (GitHub Pages):
 
 <p align="center">
+  <img alt="Puzzle Logo" height="50" src="img/logo_animetv.png">
+</p>
+
+1.  **ANIME.TV - World of Anime & Manga:**
+    *   **Description:** A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. Features video player, image/GIF galleries, manga reader. A personal project for learning and skill development.
+    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/anime.tv/]
+    *   💡 **Key Features:**
+        *   Video player, image/GIF galleries, manga reader.
+
+    *   *Tech Stack:* HTML5, CSS3, Vanilla JavaScript, GitHub Pages.
+
+<p align="center">
   <img alt="Puzzle Logo" height="50" src="img/logo_puzzle.png">
 </p>
 
-1.  **Puzzle & Image Tools Suite:**
+2.  **Puzzle & Image Tools Suite:**
     *   **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
     *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/games_tools/]
     *   💡 **Key Features:**
@@ -156,7 +168,7 @@ Here's a little bit about me:
   <img alt="Mymusic Logo" height="50" src="img/logo_mymusic.png">
 </p>
 
-2.  **MyMusic Player Interface:**
+3.  **MyMusic Player Interface:**
     *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
     *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/mymusic/]
     *   💡 **Key Features:**
