@@ -78,7 +78,7 @@ Here's a little bit about me:
 
 ### 🏆 Academic Projects:
 
-<details open>
+<details>
 <summary><strong>🌐 Web Development</strong></summary>
 <br>
 <div style="padding-left: 20px;">
@@ -137,7 +137,7 @@ Here's a little bit about me:
 
 <br>
 
-<details open>
+<details>
 <summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
 <br>
 <div style="padding-left: 20px;">
@@ -162,7 +162,7 @@ Here's a little bit about me:
 
 <br>
 
-<details open>
+<details>
 <summary><strong>🧠 Machine Learning</strong></summary>
 <br>
 <div style="padding-left: 20px;">
@@ -190,54 +190,51 @@ Here's a little bit about me:
 
 <br>
 
-<details open>
+<details>
 <summary>
 <img alt="ANIME.TV Logo" height="20" src="img/logo_animetv.png" align="center">
 <strong>ANIME.TV - World of Anime & Manga</strong>
 </summary>
-<blockquote>
 <ul>
     <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
     <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
     <li><strong>💡 Key Features:</strong> Video player, image/GIF galleries, manga reader.</li>
     <li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
 </ul>
-</blockquote>
 </details>
 
 <br>
 
-<details open>
-<summary>
-<img alt="Puzzle Logo" height="20" src="img/logo_puzzle.png" align="center">
-<strong>Puzzle & Image Tools Suite</strong>
-</summary>
-<blockquote>
-<ul>
-    <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
-    <li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
-</ul>
-</blockquote>
-</details>
-
-<br>
-
-<details open>
+<details>
 <summary>
 <img alt="Mymusic Logo" height="20" src="img/logo_mymusic.png" align="center">
 <strong>MyMusic Player Interface</strong>
 </summary>
-<blockquote>
 <ul>
     <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
     <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic/">https://tranhuudat2004.github.io/mymusic/</a></li>
     <li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
     <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
 </ul>
-</blockquote>
 </details>
+
+<br>
+
+<details>
+<summary>
+<img alt="Puzzle Logo" height="20" src="img/logo_puzzle.png" align="center">
+<strong>Puzzle & Image Tools Suite</strong>
+</summary>
+<ul>
+    <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
+    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
+    <li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
+    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
+</ul>
+</details>
+
+
+
 ---
 
 *   ➡️ Explore more of my projects in the [Repositories tab](https://github.com/TranHuuDat2004?tab=repositories).
