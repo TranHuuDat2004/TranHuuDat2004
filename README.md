@@ -76,108 +76,162 @@ Here's a little bit about me:
   </a>
 </p>
 
-### 🏆 Academic Projects:
+🏆 Academic Projects:
 
-#### 🌐 Web Development:
+<details>
+  <summary><strong>🌐 Web Development</strong></summary>
+  
+  <br>
 
-<p align="center">
-  <img alt="BrickShop Logo" height="50" src="img/logo_brickshop.png">
-</p>
+  <details>
+    <summary>
+      <img alt="BrickShop Logo" height="25" src="img/logo_brickshop.png" align="center">
+      <strong>BrickShop - E-commerce for Building Blocks</strong>
+    </summary>
+    
+    <br>
+    
+    Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
+    
+    - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
+    - **Backend:** Node.js, Express.js
+    - **Database:** MySQL
+  </details>
 
-1.  **[BrickShop](https://github.com/TranHuuDat2004/BrickShop):** Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.
-    *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)
-    *   *Backend:* Node.js, Express.js
-    *   *Database:* MySQL
+  <br>
 
-<br/>
+  <details>
+    <summary>
+      <img alt="ZStyle Logo" height="25" src="img/logo_zstyle.png" align="center">
+      <strong>ZStyle - Foundational E-commerce Website</strong>
+    </summary>
+    
+    <br>
+    
+    Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
+    
+    - **Frontend:** HTML5, CSS3, JavaScript
+    - **Backend:** PHP
+    - **Database:** MySQL
+  </details>
+  
+  <br>
+  
+  <details>
+    <summary>
+      <img alt="Omacha Shop Logo" height="25" src="img/logo_omacha.png" align="center">
+      <strong>Omacha Shop - Full-stack Toy Store</strong>
+    </summary>
+    
+    <br>
+    
+    A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
+    
+    - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
+    - **Backend:** PHP
+    - **Database:** MySQL
+  </details>
 
-<p align="center">
-  <img alt="ZStyle Logo" height="50" src="img/logo_zstyle.png">
-</p>
+</details>
 
-2.  **[ZStyle](https://github.com/TranHuuDat2004/ZStyle):** Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.
-    *   *Frontend:* HTML5, CSS3, JavaScript
-    *   *Backend:* PHP
-    *   *Database:* MySQL
+<br>
 
-<br/>
+<details>
+  <summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
 
-<p align="center">
-  <img alt="Omacha Shop Logo" height="50" src="img/logo_omacha.png">
-</p>
+  <br>
 
-3.  **[Omacha Shop](https://github.com/TranHuuDat2004/Omacha_Shop):** A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.
-    *   *Frontend:* HTML5, CSS3, JavaScript, Bootstrap
-    *   *Backend:* PHP
-    *   *Database:* MySQL
+  <details>
+    <summary>
+      <img alt="AquaTrack Logo" height="25" src="img/logo_aquatrack.png" align="center">
+      <strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
+    </summary>
+    
+    <br>
+    
+    Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
+    
+    - **Platform:** Android
+    - **Language:** Java
+    - **Database:** Firebase Firestore
+  </details>
 
-#### 📱 Mobile Development (Android - Java):
+</details>
 
-<p align="center">
-  <img alt="AquaTrack Logo" height="50" src="img/logo_aquatrack.png">
-</p>
+<br>
 
-1.  **[AquaTrack (Water_Reminder)](https://github.com/TranHuuDat2004/Water_Reminder):** Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.
-    *   *Platform:* Android
-    *   *Language:* Java
-    *   *Database:* Firebase Firestore
+<details>
+  <summary><strong>🧠 Machine Learning</strong></summary>
 
-#### 🧠 Machine Learning:
+  <br>
+  
+  <details>
+    <summary>
+      <img alt="Handwriting Signature Recognition" height="25" src="img/logo_handwriting.png" align="center">
+      <strong>Handwriting Signature Recognition</strong>
+    </summary>
+    
+    <br>
+    
+    Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
+    
+    - **Language:** Python
+    - **Libraries/Frameworks:** TensorFlow, Keras, scikit-learn, OpenCV
+  </details>
+  
+</details>
 
-<p align="center">
-  <img alt="Handwriting Signature Recognition" height="50" src="img/logo_handwriting.png"> 
-</p>
-
-1.  **[Handwriting Signature Recognition](https://github.com/TranHuuDat2004/handwriting-signature-recognition):** Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.
-    *   *Language:* Python
-    *   *Libraries/Frameworks:* (e.g., TensorFlow/Keras, scikit-learn, OpenCV) - *Please add specific ML libraries if you remember them.*
-
-
+<br>
 
 ---
 
-### 🚀 Personal Projects & Live Demos (GitHub Pages):
+🚀 Personal Projects & Live Demos (GitHub Pages):
 
-<p align="center">
-  <img alt="Puzzle Logo" height="50" src="img/logo_animetv.png">
-</p>
+<details>
+  <summary>
+    <img alt="ANIME.TV Logo" height="25" src="img/logo_animetv.png" align="center">
+    <strong>ANIME.TV - World of Anime & Manga</strong>
+  </summary>
+  
+  <br>
+  
+  - **Description:** A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.
+  - **🔗 Live Demo:** [https://tranhuudat2004.github.io/anime.tv/](https://tranhuudat2004.github.io/anime.tv/)
+  - **💡 Key Features:** Video player, image/GIF galleries, manga reader.
+  - **Tech Stack:** HTML5, CSS3, Vanilla JavaScript, GitHub Pages.
+</details>
 
-1.  **ANIME.TV - World of Anime & Manga:**
-    *   **Description:** A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. Features video player, image/GIF galleries, manga reader. A personal project for learning and skill development.
-    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/anime.tv/]
-    *   💡 **Key Features:**
-        *   Video player, image/GIF galleries, manga reader.
+<br>
 
-    *   *Tech Stack:* HTML5, CSS3, Vanilla JavaScript, GitHub Pages.
+<details>
+  <summary>
+    <img alt="Puzzle Logo" height="25" src="img/logo_puzzle.png" align="center">
+    <strong>Puzzle & Image Tools Suite</strong>
+  </summary>
+  
+  <br>
+  
+  - **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
+  - **🔗 Live Demo:** [https://tranhuudat2004.github.io/games_tools/](https://tranhuudat2004.github.io/games_tools/)
+  - **💡 Key Features:** Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.
+  - **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap.
+</details>
 
-<p align="center">
-  <img alt="Puzzle Logo" height="50" src="img/logo_puzzle.png">
-</p>
+<br>
 
-2.  **Puzzle & Image Tools Suite:**
-    *   **Description:** An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.
-    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/games_tools/]
-    *   💡 **Key Features:**
-        *   Jigsaw puzzle with diverse image collections and intuitive drag & drop.
-        *   Image tools: Crop to square, split into grid, resize with aspect ratio control.
-    *   *Tech Stack:* HTML5, CSS3, JavaScript, Bootstrap.
-
-
-
-<p align="center">
-  <img alt="Mymusic Logo" height="50" src="img/logo_mymusic.png">
-</p>
-
-3.  **MyMusic Player Interface:**
-    *   **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
-    *   🔗 **Live Demo:** [https://tranhuudat2004.github.io/mymusic/]
-    *   💡 **Key Features:**
-        *   Intuitive music playback controls (play/pause, progress, volume).
-        *   Responsive design for desktop and mobile.
-        *   Dynamic UI elements built with vanilla JavaScript.
-    *   *Tech Stack:* HTML5, CSS3, JavaScript (ES6+).
-
-
+<details>
+  <summary>
+    <img alt="Mymusic Logo" height="25" src="img/logo_mymusic.png" align="center">
+    <strong>MyMusic Player Interface</strong>
+  </summary>
+  
+  <br>
+  
+  - **Description:** A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.
+  - **🔗 Live Demo:** [https://tranhuudat2004.github.io/mymusic/](https://tranhuudat2004.github.io/mymusic/)
+  - **💡 Key Features:** Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.
+  - **Tech Stack:** HTML5, CSS3, JavaScript (ES6+).
+</details>
 
 ---
 
