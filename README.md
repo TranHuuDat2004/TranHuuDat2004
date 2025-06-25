@@ -80,14 +80,15 @@ Here's a little bit about me:
 
 <details open>
 <summary><strong>🌐 Web Development</strong></summary>
-<div style="padding-left: 50px;">
+<br>
+<div style="padding-left: 20px;">
 
 <details>
 <summary>
 <img alt="BrickShop Logo" height="20" src="img/logo_brickshop.png" align="center">
 <strong>BrickShop - E-commerce for Building Blocks</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 10px;">
 <p>Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.</p>
 <ul>
 <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)</li>
@@ -97,12 +98,14 @@ Here's a little bit about me:
 </div>
 </details>
 
+<br>
+
 <details>
 <summary>
 <img alt="ZStyle Logo" height="20" src="img/logo_zstyle.png" align="center">
 <strong>ZStyle - Foundational E-commerce Website</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 10px;">
 <p>Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.</p>
 <ul>
 <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
@@ -112,12 +115,14 @@ Here's a little bit about me:
 </div>
 </details>
 
+<br>
+
 <details>
 <summary>
 <img alt="Omacha Shop Logo" height="20" src="img/logo_omacha.png" align="center">
 <strong>Omacha Shop - Full-stack Toy Store</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 10px;">
 <p>A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.</p>
 <ul>
 <li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap</li>
@@ -130,16 +135,19 @@ Here's a little bit about me:
 </div>
 </details>
 
+<br>
+
 <details open>
 <summary><strong>📱 Mobile Development (Android - Java)</strong></summary>
-<div style="padding-left: 50px;">
+<br>
+<div style="padding-left: 20px;">
 
 <details>
 <summary>
 <img alt="AquaTrack Logo" height="20" src="img/logo_aquatrack.png" align="center">
 <strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 10px;">
 <p>Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.</p>
 <ul>
 <li><strong>Platform:</strong> Android</li>
@@ -152,16 +160,19 @@ Here's a little bit about me:
 </div>
 </details>
 
+<br>
+
 <details open>
 <summary><strong>🧠 Machine Learning</strong></summary>
-<div style="padding-left: 50px;">
+<br>
+<div style="padding-left: 20px;">
 
 <details>
 <summary>
 <img alt="Handwriting Signature Recognition" height="20" src="img/logo_handwriting.png" align="center">
 <strong>Handwriting Signature Recognition</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<div style="padding-left: 40px; padding-top: 10px;">
 <p>Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.</p>
 <ul>
 <li><strong>Language:</strong> Python</li>
@@ -177,49 +188,55 @@ Here's a little bit about me:
 
 ### 🚀 Personal Projects & Live Demos (GitHub Pages):
 
-<details>
+<br>
+
+<details open>
 <summary>
 <img alt="ANIME.TV Logo" height="20" src="img/logo_animetv.png" align="center">
 <strong>ANIME.TV - World of Anime & Manga</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<blockquote>
 <ul>
-<li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
-<li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
-<li><strong>💡 Key Features:</strong> Video player, image/GIF galleries, manga reader.</li>
-<li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
+    <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
+    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
+    <li><strong>💡 Key Features:</strong> Video player, image/GIF galleries, manga reader.</li>
+    <li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
 </ul>
-</div>
+</blockquote>
 </details>
 
-<details>
+<br>
+
+<details open>
 <summary>
 <img alt="Puzzle Logo" height="20" src="img/logo_puzzle.png" align="center">
 <strong>Puzzle & Image Tools Suite</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<blockquote>
 <ul>
-<li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
-<li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
-<li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
-<li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
+    <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
+    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
+    <li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
+    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
 </ul>
-</div>
+</blockquote>
 </details>
 
-<details>
+<br>
+
+<details open>
 <summary>
 <img alt="Mymusic Logo" height="20" src="img/logo_mymusic.png" align="center">
 <strong>MyMusic Player Interface</strong>
 </summary>
-<div style="padding-left: 50px; padding-top: 30px;">
+<blockquote>
 <ul>
-<li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
-<li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic/">https://tranhuudat2004.github.io/mymusic/</a></li>
-<li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
-<li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
+    <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
+    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic/">https://tranhuudat2004.github.io/mymusic/</a></li>
+    <li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
+    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
 </ul>
-</div>
+</blockquote>
 </details>
 ---
 
