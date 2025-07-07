@@ -109,7 +109,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="BrickShop Logo" src="img/logo_brickshop_resized.png"></td>
+      <td><img alt="BrickShop Logo" src="img/logo_brickshop_resized.png"></td>
       <td><strong>BrickShop - E-commerce for Building Blocks</strong></td>
     </tr>
   </table>
@@ -130,7 +130,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="ZStyle Logo" src="img/logo_zstyle_resized.png"></td>
+      <td><img alt="ZStyle Logo" src="img/logo_zstyle_resized.png"></td>
       <td><strong>ZStyle - Foundational E-commerce Website</strong></td>
     </tr>
   </table>
@@ -151,7 +151,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="Omacha Shop Logo" src="img/logo_omacha_resized.png"></td>
+      <td><img alt="Omacha Shop Logo" src="img/logo_omacha_resized.png"></td>
       <td><strong>Omacha Shop - Full-stack Toy Store</strong></td>
     </tr>
   </table>
@@ -180,7 +180,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="AquaTrack Logo" src="img/logo_aquatrack_resized.png"></td>
+      <td><img alt="AquaTrack Logo" src="img/logo_aquatrack_resized.png"></td>
       <td><strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong></td>
     </tr>
   </table>
@@ -209,7 +209,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="Handwriting Signature Recognition" src="img/logo_handwriting_resized.png"></td>
+      <td><img alt="Handwriting Signature Recognition" src="img/logo_handwriting_resized.png"></td>
       <td><strong>Handwriting Signature Recognition</strong></td>
     </tr>
   </table>
@@ -236,7 +236,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="ANIME.TV Logo" src="img/logo_animetv_resized.png"></td>
+      <td><img alt="ANIME.TV Logo" src="img/logo_animetv_resized.png"></td>
       <td><strong>ANIME.TV - World of Anime & Manga</strong></td>
     </tr>
   </table>
@@ -255,7 +255,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="Mymusic Logo" src="img/logo_mymusic_resized.png"></td>
+      <td><img alt="Mymusic Logo" src="img/logo_mymusic_resized.png"></td>
       <td><strong>MyMusic Player Interface</strong></td>
     </tr>
   </table>
@@ -274,7 +274,7 @@ Here's a little bit about me:
 <summary>
   <table>
     <tr>
-      <td width="40"><img alt="Puzzle Logo" src="img/logo_puzzle_resized.png"></td>
+      <td><img alt="Puzzle Logo" src="img/logo_puzzle_resized.png"></td>
       <td><strong>Puzzle & Image Tools Suite</strong></td>
     </tr>
   </table>
