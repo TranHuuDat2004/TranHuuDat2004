@@ -107,7 +107,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="BrickShop Logo" height="20" src="img/logo_brickshop_resized.png" align="center">
+<img alt="BrickShop Logo"  src="img/logo_brickshop_resized.png" align="center">
 <strong>BrickShop - E-commerce for Building Blocks</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
@@ -124,7 +124,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="ZStyle Logo" height="20" src="img/logo_zstyle_resized.png" align="center">
+<img alt="ZStyle Logo"  src="img/logo_zstyle_resized.png" align="center">
 <strong>ZStyle - Foundational E-commerce Website</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
@@ -141,7 +141,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Omacha Shop Logo" height="20" src="img/logo_omacha_resized.png" align="center">
+<img alt="Omacha Shop Logo"  src="img/logo_omacha_resized.png" align="center">
 <strong>Omacha Shop - Full-stack Toy Store</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
@@ -166,7 +166,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="AquaTrack Logo" height="20" src="img/logo_aquatrack_resized.png" align="center">
+<img alt="AquaTrack Logo"  src="img/logo_aquatrack_resized.png" align="center">
 <strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
@@ -191,7 +191,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Handwriting Signature Recognition" height="20" src="img/logo_handwriting_resized.png" align="center">
+<img alt="Handwriting Signature Recognition"  src="img/logo_handwriting_resized.png" align="center">
 <strong>Handwriting Signature Recognition</strong>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
@@ -214,7 +214,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="ANIME.TV Logo" height="20" src="img/logo_animetv_resized.png" align="center">
+<img alt="ANIME.TV Logo"  src="img/logo_animetv_resized.png" align="center">
 <strong>ANIME.TV - World of Anime & Manga</strong>
 </summary>
 <ul>
@@ -229,7 +229,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Mymusic Logo" height="20" src="img/logo_mymusic_resized.png" align="center">
+<img alt="Mymusic Logo"  src="img/logo_mymusic_resized.png" align="center">
 <strong>MyMusic Player Interface</strong>
 </summary>
 <ul>
@@ -244,7 +244,7 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Puzzle Logo" height="20" src="img/logo_puzzle_resized.png" align="center">
+<img alt="Puzzle Logo"  src="img/logo_puzzle_resized.png" align="center">
 <strong>Puzzle & Image Tools Suite</strong>
 </summary>
 <ul>
