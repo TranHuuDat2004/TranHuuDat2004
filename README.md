@@ -107,8 +107,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="BrickShop Logo"  src="img/logo_brickshop_resized.png" align="center">
-<strong>BrickShop - E-commerce for Building Blocks</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="BrickShop Logo" src="img/logo_brickshop_resized.png"></td>
+      <td><strong>BrickShop - E-commerce for Building Blocks</strong></td>
+    </tr>
+  </table>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.</p>
@@ -124,8 +128,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="ZStyle Logo"  src="img/logo_zstyle_resized.png" align="center">
-<strong>ZStyle - Foundational E-commerce Website</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="ZStyle Logo" src="img/logo_zstyle_resized.png"></td>
+      <td><strong>ZStyle - Foundational E-commerce Website</strong></td>
+    </tr>
+  </table>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.</p>
@@ -141,8 +149,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Omacha Shop Logo"  src="img/logo_omacha_resized.png" align="center">
-<strong>Omacha Shop - Full-stack Toy Store</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="Omacha Shop Logo" src="img/logo_omacha_resized.png"></td>
+      <td><strong>Omacha Shop - Full-stack Toy Store</strong></td>
+    </tr>
+  </table>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.</p>
@@ -166,8 +178,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="AquaTrack Logo"  src="img/logo_aquatrack_resized.png" align="center">
-<strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="AquaTrack Logo" src="img/logo_aquatrack_resized.png"></td>
+      <td><strong>AquaTrack (Water_Reminder) - Hydration Companion App</strong></td>
+    </tr>
+  </table>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>Created AquaTrack, a native Android application promoting better hydration. Allows users to easily log water consumption, visualize progress towards daily goals, and store data persistently using Firebase Firestore.</p>
@@ -191,8 +207,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Handwriting Signature Recognition"  src="img/logo_handwriting_resized.png" align="center">
-<strong>Handwriting Signature Recognition</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="Handwriting Signature Recognition" src="img/logo_handwriting_resized.png"></td>
+      <td><strong>Handwriting Signature Recognition</strong></td>
+    </tr>
+  </table>
 </summary>
 <div style="padding-left: 40px; padding-top: 10px;">
 <p>Developed a machine learning model for authenticating handwritten signatures. This project explores techniques for feature extraction and classification to verify signature authenticity.</p>
@@ -214,8 +234,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="ANIME.TV Logo"  src="img/logo_animetv_resized.png" align="center">
-<strong>ANIME.TV - World of Anime & Manga</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="ANIME.TV Logo" src="img/logo_animetv_resized.png"></td>
+      <td><strong>ANIME.TV - World of Anime & Manga</strong></td>
+    </tr>
+  </table>
 </summary>
 <ul>
     <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
@@ -229,8 +253,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Mymusic Logo"  src="img/logo_mymusic_resized.png" align="center">
-<strong>MyMusic Player Interface</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="Mymusic Logo" src="img/logo_mymusic_resized.png"></td>
+      <td><strong>MyMusic Player Interface</strong></td>
+    </tr>
+  </table>
 </summary>
 <ul>
     <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
@@ -244,8 +272,12 @@ Here's a little bit about me:
 
 <details>
 <summary>
-<img alt="Puzzle Logo"  src="img/logo_puzzle_resized.png" align="center">
-<strong>Puzzle & Image Tools Suite</strong>
+  <table>
+    <tr>
+      <td width="40"><img alt="Puzzle Logo" src="img/logo_puzzle_resized.png"></td>
+      <td><strong>Puzzle & Image Tools Suite</strong></td>
+    </tr>
+  </table>
 </summary>
 <ul>
     <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
