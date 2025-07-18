@@ -234,7 +234,7 @@ Here's a little bit about me:
 </summary>
 <ul>
     <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic/">https://tranhuudat2004.github.io/mymusic/</a></li>
+    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic/">https://tranhuudat2004.github.io/mymusic-demo/</a></li>
     <li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
     <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
 </ul>
