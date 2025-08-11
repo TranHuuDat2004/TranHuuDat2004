@@ -8,6 +8,10 @@ on:
   # Cho phép bạn chạy thủ công từ tab Actions
   workflow_dispatch:
 
+# === THÊM KHỐI NÀY VÀO ===
+permissions:
+  contents: write # Cấp quyền ghi cho 'contents' (nội dung repository)
+  
 jobs:
   build:
     runs-on: ubuntu-latest
