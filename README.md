@@ -81,6 +81,16 @@ Here's a little bit about me:
   </a>
 </p>
 
+
+## 🚀 My Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <p align="center">
   <a href="https://github.com/TranHuuDat2004/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
