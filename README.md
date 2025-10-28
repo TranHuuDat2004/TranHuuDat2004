@@ -261,7 +261,7 @@ Here's a little bit about me:
 <ul>
     <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
     <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
-    <li><strong>💡 Key Features:</strong> Video player, image/GIF galleries, manga reader.</li>
+    <li><strong>💡 Key Features:</strong> Shows detailed information about an anime series, image/GIF galleries, manga reader.</li>
     <li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
 </ul>
 </details>
