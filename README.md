@@ -140,9 +140,9 @@ Here's a little bit about me:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-<!-- WAKATIME STATS -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- WAKATIME STATS -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical" alt="WakaTime Stats"/>
   </a>
 </p>
 
