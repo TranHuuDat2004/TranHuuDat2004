@@ -142,7 +142,7 @@ Here's a little bit about me:
 <p align="center">
   <!-- WAKATIME STATS -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical" alt="WakaTime Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
   </a>
 </p>
 
