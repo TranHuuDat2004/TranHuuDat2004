@@ -136,12 +136,6 @@ Here's a little bit about me:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-azure-omega-22.vercel.app/?user=TranHuuDat2004&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
   <!-- WAKATIME STATS -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-amber-six-48.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
