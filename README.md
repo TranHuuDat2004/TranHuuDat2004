@@ -145,6 +145,10 @@ Here's a little bit about me:
 
 ### 🏆 Academic Projects:
 
+
+<p><em>(Click on the titles below to view project details 🔽)</em></p> 
+
+
 <details>
 <summary><strong>🌐 Web Development</strong></summary>
 <br>
