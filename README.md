@@ -127,18 +127,11 @@ Here's a little bit about me:
 
 <p align="center">
   <a href="https://github.com/TranHuuDat2004/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
   </a>
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats"> <!-- Corrected link wrapper for consistency -->
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=TranHuuDat2004&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
-    <!-- Corrected username=TranHuuDat2004 -->
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=TranHuuDat2004&theme=radical&langs_count=8&card_width=805" alt="GitHub Streak" /> 
-    <!-- Adjusted card_width slightly, you can fine-tune this -->
+  
+  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api/top-langs?username=TranHuuDat2004&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
   </a>
 </p>
 
@@ -148,8 +141,6 @@ Here's a little bit about me:
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
   </a>
 </p>
-
-
 
 
 ### 🏆 Academic Projects:
