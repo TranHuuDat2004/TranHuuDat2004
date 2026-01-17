@@ -120,6 +120,9 @@ Here's a little bit about me:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 🚀 My Contributions Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🚀 My Github Stats
 
 <p align="center">
