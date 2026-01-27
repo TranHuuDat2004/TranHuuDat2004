@@ -112,99 +112,256 @@ Here's a little bit about me:
 </table>
 
 
-## 🚀 My Contributions Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
-</picture>
-
-## 🚀 My Contributions Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🚀 My Github Stats
-
-<p align="center">
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-  
-  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
-    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api/top-langs?username=TranHuuDat2004&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
-  </a>
-</p>
-
-<p align="center">
-  <!-- WAKATIME STATS -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-amber-six-48.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
-  </a>
-</p>
-
-
+<!-- PROJECT SECTION STARTS HERE -->
 ### 🏆 Academic Projects:
+
+<h3 align="center">🎨 Featured Projects Showcase</h3>
+
+<table border="0" width="100%">
+  
+  <!-- PROJECT 1: BRICKSHOP (Ảnh Trái - Chữ Phải) -->
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/BrickShop">
+        <img src="img/home_brickshop.png" alt="BrickShop" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3 align="left">🧱 BrickShop E-commerce</h3>
+      <p>
+        <strong>Sàn thương mại điện tử chuyên biệt cho Qman, Keeppley, Lego.</strong><br>
+        Hệ thống Full-stack với đầy đủ tính năng: Giỏ hàng, Thanh toán, Quản lý đơn hàng và Dashboard Admin.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>Node.js</code> <code>Express</code> <code>MySQL</code><br>
+        <code>Bootstrap</code> <code>Tailwind CSS</code>
+      </p>
+      <p align="left">
+        <a href="https://github.com/TranHuuDat2004/BrickShop">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 2: OMACHA SHOP (Chữ Trái - Ảnh Phải) -->
+  <tr>
+    <td width="45%" valign="middle">
+      <h3 align="left">🧸 Omacha Shop</h3>
+      <p>
+        <strong>Cửa hàng đồ chơi Full-stack.</strong><br>
+        Nền tảng thương mại điện tử chuyên về đồ chơi. Trải nghiệm mua sắm toàn diện cho khách hàng và hệ thống quản trị (Admin) mạnh mẽ.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>PHP</code> <code>MySQL</code> <code>Bootstrap</code><br>
+        <code>JavaScript</code>
+      </p>
+      <p align="left">
+        <a href="https://github.com/TranHuuDat2004/Omacha-Shop">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/Omacha-Shop">
+        <img src="img/home_omacha.jpg" alt="Omacha Shop" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- PROJECT 3: ZSTYLE (Ảnh Trái - Chữ Phải) -->
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/ZStyle">
+        <img src="img/home_zstyle.png" alt="ZStyle" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3 align="left">👗 ZStyle Fashion</h3>
+      <p>
+        <strong>Trang web thời trang cơ bản.</strong><br>
+        Website bán quần áo với các chức năng cốt lõi: xem sản phẩm, quản lý giỏ hàng và quy trình thanh toán cơ bản. Dự án nền tảng PHP & MySQL.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>PHP</code> <code>MySQL</code> <code>HTML5/CSS3</code><br>
+        <code>JavaScript</code>
+      </p>
+      <p align="left">
+        <a href="https://github.com/TranHuuDat2004/ZStyle">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 4: UNIDOCS (Chữ Trái - Ảnh Phải) -->
+  <tr>
+    <td width="45%" valign="middle">
+      <h3 align="left">📚 UniDocs Ecosystem</h3>
+      <p>
+        <strong>Kho tài liệu & Hệ sinh thái học tập toàn diện.</strong><br>
+        UniDocs: Kho tài liệu môn học miễn phí dành cho sinh viên Công nghệ thông tin. Truy cập giáo trình, bài giảng, đề thi các môn chuyên ngành dễ dàng và hiệu quả.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>HTML5</code> <code>Tailwind CSS</code> <code>Vanilla JS</code><br>
+      </p>
+      <p align="left">
+        <a href="https://github.com/TranHuuDat2004/UniDocs">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/UniDocs">
+        <img src="img/home_unidocs.png" alt="UniDocs" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- PROJECT 5: SLIDIFY (Ảnh Trái - Chữ Phải) -->
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/Slidify">
+        <img src="img/home_slidify.png" alt="Slidify" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3 align="left">📑 Slidify</h3>
+      <p>
+        <strong>Nền tảng học Slide song ngữ tương tác.</strong><br>
+        Slidify: Nền tảng học tập tương tác giúp biến các Slide bài giảng tiếng Anh thành bài học song ngữ với ghi chú và giải thích thuật ngữ chi tiết.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>JavaScript (ES6+)</code> <code>LocalStorage</code> <code>CSS3</code>
+      </p>
+      <p align="left">
+        <a href="https://tranhuudat2004.github.io/Slidify/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+        </a>
+        <a href="https://github.com/TranHuuDat2004/Slidify">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 6: APTIS PRACTICE (Chữ Trái - Ảnh Phải) -->
+  <tr>
+    <td width="45%" valign="middle">
+      <h3 align="left">🎓 Aptis Practice Tool</h3>
+      <p>
+        <strong>Web App luyện thi chứng chỉ tương tác cao.</strong><br>
+        Một trang web luyện thi Aptis ESOL tương tác gồm các tính năng: Drag & Drop, Audio Player và bộ đếm giờ. Xây dựng bằng HTML, CSS và JavaScript.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>Advanced JS</code> <code>SortableJS</code> <code>Driver.js</code><br>
+        <code>JSON Data Structure</code>
+      </p>
+      <p align="left">
+        <a href="https://tranhuudat2004.github.io/aptis-practice/">
+          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+        <a href="https://github.com/TranHuuDat2004/aptis-practice">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="55%" align="center">
+      <a href="https://github.com/TranHuuDat2004/aptis-practice">
+        <img src="img/home_aptis.png" alt="Aptis Practice" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- PROJECT 7: ANIME.TV (Ảnh Trái - Chữ Phải) -->
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://tranhuudat2004.github.io/anime.tv/">
+        <img src="img/home_animetv.png" alt="Anime.TV" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3 align="left">📺 ANIME.TV</h3>
+      <p>
+        <strong>Thế giới Anime & Manga.</strong><br>
+        Website xem thông tin Anime & Manga lấy cảm hứng từ Crunchyroll. Dự án cá nhân để rèn luyện kỹ năng xây dựng giao diện.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>HTML5</code> <code>CSS3</code> <code>Vanilla JS</code><br>
+        <code>GitHub Pages</code>
+      </p>
+      <p align="left">
+        <a href="https://tranhuudat2004.github.io/anime.tv/">
+          <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=html5&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 8: MYMUSIC (Chữ Trái - Ảnh Phải) -->
+  <tr>
+    <td width="45%" valign="middle">
+      <h3 align="left">🎵 MyMusic Player</h3>
+      <p>
+        <strong>Giao diện nghe nhạc hiện đại.</strong><br>
+        Giao diện trình phát nhạc trực tuyến đẹp mắt, lấy cảm hứng từ Spotify. Tập trung vào trải nghiệm người dùng (UX/UI) và khả năng tương thích trên nhiều thiết bị.
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>HTML5</code> <code>CSS3</code> <code>JavaScript (ES6+)</code>
+      </p>
+      <p align="left">
+         <a href="https://tranhuudat2004.github.io/mymusic-demo/">
+          <img src="https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="55%" align="center">
+      <a href="https://tranhuudat2004.github.io/mymusic-demo/">
+        <img src="img/home_mymusic.png" alt="MyMusic" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+  </tr>
+
+  <!-- PROJECT 9: PUZZLE & TOOLS (Ảnh Trái - Chữ Phải) -->
+  <tr>
+    <td width="55%" align="center">
+      <a href="https://tranhuudat2004.github.io/games_tools/">
+        <img src="img/home_game.png" alt="Puzzle & Tools" width="100%" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td width="45%" valign="middle">
+      <h3 align="left">🧩 Puzzle & Image Tools</h3>
+      <p>
+        <strong>Game xếp hình & Công cụ xử lý ảnh.</strong><br>
+        Web app giải trí với trò chơi xếp hình tương tác và bộ công cụ xử lý ảnh tiện ích (cắt ảnh, chia lưới, đổi kích thước).
+      </p>
+      <p>
+        <strong>🛠 Tech Stack:</strong><br>
+        <code>HTML5</code> <code>Bootstrap</code> <code>JavaScript</code>
+      </p>
+      <p align="left">
+        <a href="https://tranhuudat2004.github.io/games_tools/">
+          <img src="https://img.shields.io/badge/Live_Demo-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+</table>
 
 
 <p><em>(Click on the titles below to view project details 🔽)</em></p> 
 
 
-<details>
-<summary><strong>🌐 Web Development</strong></summary>
-<br>
-<div style="padding-left: 20px;">
 
-<details>
-<summary>
-<img alt="BrickShop Logo"  src="img/logo_brickshop_resized.png" align="center">
-<strong>BrickShop - E-commerce for Building Blocks</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Engineered an e-commerce hub for building block fans (Qman, Keeppley, LEGO). Key features include seamless product browsing, secure checkout, order management, and a dedicated administration dashboard for efficient business operations.</p>
-<ul>
-<li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap (Customer UI), Tailwind CSS (Admin UI)</li>
-<li><strong>Backend:</strong> Node.js, Express.js</li>
-<li><strong>Database:</strong> MySQL</li>
-</ul>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>
-<img alt="ZStyle Logo"  src="img/logo_zstyle_resized.png" align="center">
-<strong>ZStyle - Foundational E-commerce Website</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>Developed a foundational e-commerce website for clothing as a course project. Implemented core functionalities for users to explore fashion items and proceed through a basic purchase flow.</p>
-<ul>
-<li><strong>Frontend:</strong> HTML5, CSS3, JavaScript</li>
-<li><strong>Backend:</strong> PHP</li>
-<li><strong>Database:</strong> MySQL</li>
-</ul>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary>
-<img alt="Omacha Shop Logo"  src="img/logo_omacha_resized.png" align="center">
-<strong>Omacha Shop - Full-stack Toy Store</strong>
-</summary>
-<div style="padding-left: 40px; padding-top: 10px;">
-<p>A delightful e-commerce platform specializing in toys, developed as a full-stack web application. Features comprehensive online shopping experience for customers and a robust administration system for efficient management.</p>
-<ul>
-<li><strong>Frontend:</strong> HTML5, CSS3, JavaScript, Bootstrap</li>
-<li><strong>Backend:</strong> PHP</li>
-<li><strong>Database:</strong> MySQL</li>
-</ul>
-</div>
-</details>
-
-</div>
-</details>
 
 <br>
 
@@ -257,53 +414,38 @@ Here's a little bit about me:
 
 ---
 
-### 🚀 Personal Projects & Live Demos (GitHub Pages):
 
-<br>
+<!-- STATS SECTION STARTS HERE -->
 
-<details>
-<summary>
-<img alt="ANIME.TV Logo"  src="img/logo_animetv_resized.png" align="center">
-<strong>ANIME.TV - World of Anime & Manga</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> A Crunchyroll-inspired static website built to explore and enjoy Anime & Manga content. A personal project for learning and skill development.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/anime.tv/">https://tranhuudat2004.github.io/anime.tv/</a></li>
-    <li><strong>💡 Key Features:</strong> Shows detailed information about an anime series, image/GIF galleries, manga reader.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, Vanilla JavaScript, GitHub Pages.</li>
-</ul>
-</details>
+## 🚀 My Contributions Snake
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TranHuuDat2004/TranHuuDat2004/output/github-contribution-grid-snake.svg">
+</picture>
 
-<details>
-<summary>
-<img alt="Mymusic Logo"  src="img/logo_mymusic_resized.png" align="center">
-<strong>MyMusic Player Interface</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> A sleek, modern online music player interface inspired by platforms like Spotify. This project showcases UI/UX design skills and front-end development proficiency with a focus on a clean, responsive, and interactive user experience.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/mymusic-demo/">https://tranhuudat2004.github.io/mymusic-demo/</a></li>
-    <li><strong>💡 Key Features:</strong> Intuitive music playback controls (play/pause, progress, volume). Responsive design for desktop and mobile. Dynamic UI elements built with vanilla JavaScript.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript (ES6+).</li>
-</ul>
-</details>
+## 🚀 My Contributions Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TranHuuDat2004&bg_color=ffffff&color=000000&line=00e1ff&point=ffd500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
+## 🚀 My Github Stats
 
-<details>
-<summary>
-<img alt="Puzzle Logo"  src="img/logo_puzzle_resized.png" align="center">
-<strong>Puzzle & Image Tools Suite</strong>
-</summary>
-<ul>
-    <li><strong>Description:</strong> An engaging web application featuring an interactive jigsaw puzzle game and a set of practical image manipulation tools (square cropper, grid splitter, resizer). Designed for entertainment and utility.</li>
-    <li><strong>🔗 Live Demo:</strong> <a href="https://tranhuudat2004.github.io/games_tools/">https://tranhuudat2004.github.io/games_tools/</a></li>
-    <li><strong>💡 Key Features:</strong> Jigsaw puzzle with diverse image collections and intuitive drag & drop. Image tools: Crop to square, split into grid, resize with aspect ratio control.</li>
-    <li><strong>Tech Stack:</strong> HTML5, CSS3, JavaScript, Bootstrap.</li>
-</ul>
-</details>
+<p align="center">
+  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api?username=TranHuuDat2004&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
+  </a>
+  
+  <a href="https://github.com/TranHuuDat2004/github-readme-stats">
+    <img height="200" src="https://github-readme-stats-amber-six-48.vercel.app/api/top-langs?username=TranHuuDat2004&theme=radical&layout=compact&langs_count=8&card_width=320" /> 
+  </a>
+</p>
 
+<p align="center">
+  <!-- WAKATIME STATS -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-amber-six-48.vercel.app/api/wakatime?username=TranHuuDat2004&layout=compact&theme=radical&range=all_time" alt="WakaTime Stats"/>
+  </a>
+</p>
 
 
 ---
@@ -314,9 +456,7 @@ Here's a little bit about me:
 
 <p align="center">
   <strong>Thanks for visiting!</strong> 
-  <!-- Hoặc bạn có thể dùng: **Thanks for visiting!** -->
 </p>
 <p align="center">
   <img src="img/coding.gif" alt="Coding GIF - Thanks for visiting!" width="400"/> 
-  <!-- Make sure 'coding.gif' exists or replace src -->
 </p>
