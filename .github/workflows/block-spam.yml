@@ -1,0 +1,57 @@
+name: Block Spam Followers
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  block-spam:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check and Block Spammers
+        uses: actions/github-script@v7
+        env:
+          # The spam phrase to check for (case-insensitive in the script)
+          SPAM_BIO: "give me stars to my repositories and back to your repositories"
+        with:
+          github-token: ${{ secrets.MY_PAT_TOKEN }}
+          script: |
+            const spamBio = process.env.SPAM_BIO.toLowerCase();
+            
+            // 1. Get list of followers (latest 100 to save API limits)
+            const followers = await github.rest.users.listFollowersForAuthenticatedUser({
+              per_page: 100
+            });
+
+            console.log(`Checking ${followers.data.length} latest followers...`);
+
+            for (const follower of followers.data) {
+              // 2. Get detailed user info to check BIO
+              try {
+                const { data: userDetails } = await github.rest.users.getByUsername({
+                  username: follower.login
+                });
+
+                if (userDetails.bio) {
+                  const bioCheck = userDetails.bio.toLowerCase().replace(/\s+/g, ' ').trim();
+                  
+                  // Check if Bio contains the spam phrase
+                  if (bioCheck.includes(spamBio)) {
+                    console.log(`🚨 Spammer detected: ${follower.login}`);
+                    console.log(`Bio: ${userDetails.bio}`);
+
+                    // 3. Execute BLOCK
+                    await github.rest.users.block({
+                      username: follower.login
+                    });
+                    
+                    console.log(`✅ Successfully blocked: ${follower.login}`);
+                  }
+                }
+              } catch (error) {
+                console.log(`Error checking user ${follower.login}: ${error.message}`);
+              }
+            }
+            console.log("Spam check completed.");
